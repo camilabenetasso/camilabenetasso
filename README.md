@@ -11,10 +11,10 @@ My biggest passion for software is dreaming up ideas and turning them into reali
 
 <br/>
 
-#### Rede Sociais!
-
- 📲 [<a href="https://wa.me/message/KW5DIEN3F2EOI1">whatsapp</a>] **|** 👔 [<a href="https://www.linkedin.com/in/camila-benetasso/">linkedin</a>] **|** 📷 [<a href="https://instagram.com/ebenetasso">instagram</a>] 
-
 <a href="https://github.com/camilabenetasso">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=camilabenetasso&show_icons=true&theme=dracula&line_height=27" alt="Camila Benetasso github stats"/>
 </a>
+
+#### Rede Sociais!
+
+ 📲 [<a href="https://wa.me/message/KW5DIEN3F2EOI1">whatsapp</a>] **|** 👔 [<a href="https://www.linkedin.com/in/camila-benetasso/">linkedin</a>] **|** 📷 [<a href="https://instagram.com/ebenetasso">instagram</a>] 

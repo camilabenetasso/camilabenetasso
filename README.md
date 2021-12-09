@@ -1,9 +1,9 @@
-### Hi, my name is Camila Benetasso 👋
+### Olá, sou a Camila Benetasso 👋
 
-My biggest passion for software is dreaming up ideas and turning them into reality with elegant and useful interfaces. I seek to learn more and more to change people's lives through programming.
+Minha maior paixão por software é sonhar ideias e transformá-las em realidade com interfaces elegantes e úteis. Procuro aprender cada vez mais para mudar a vida das pessoas por meio da programação.
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying at **<a href="https://codeclub.rodolfomori.com/">CodeClub</a> | <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a> | <a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/">Brasil Mais Digital</a>**.
+- 🤔 &nbsp; Explorando novas tecnologias.
+- 🎓 &nbsp; Estudando em **<a href="https://codeclub.rodolfomori.com/">CodeClub</a> | <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a> | <a href="http://www.brasilmaisdigital.org.br/index.php/pt-br/">Brasil Mais Digital</a>**.
 
 ## **Linguagens e Ferramentas:**  
 
